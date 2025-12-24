@@ -1,0 +1,6 @@
+
+{
+  "name": "QuickServe - Smart Restaurant Ordering",
+  "description": "A full-stack production-ready MERN application for restaurant table ordering with real-time admin notifications and live order tracking.",
+  "requestFramePermissions": []
+}
